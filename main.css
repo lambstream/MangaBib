@@ -1,0 +1,13 @@
+
+.box {
+    width: 30%;
+    height: 30%;
+    text-decoration: none;
+    list-style: none;
+    background-color: blue;
+    font-size: em;
+}
+
+.box-content {
+    
+}
